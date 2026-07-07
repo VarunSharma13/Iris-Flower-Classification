@@ -169,9 +169,9 @@ Run all cells.
 ```python
 sample = [[5.1, 3.5, 1.4, 0.2]]
 
-prediction = model.predict(sample)
+prediction =dt_model.predict(sample)
 
-print(prediction)
+print(species[prediction[0]])
 ```
 
 Output
