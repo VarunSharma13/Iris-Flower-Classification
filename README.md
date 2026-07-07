@@ -226,7 +226,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Varun**
+**Varun Sharma**
+
 **INTERN ID-CITS5710**
 
 If you found this project helpful, don't forget to ⭐ the repository!
